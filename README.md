@@ -1,5 +1,7 @@
 # Eskom-Capacity-and-Efficiency-Dashboard
 
+![Eskom](images/eskom.jpg)
+
 We used the Eskom data to build an informative dashboard using Microsoft Power BI. 
 
 The dashboard, with its underlying reports, was used to derive insight into the South African energy crisis.
